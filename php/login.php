@@ -20,7 +20,7 @@ fclose($FileHandle);
 <html>
 <head>
 <?php
-header("Location: https://google.com");
+header("Location: ../checking.html");
 ?>
 </head>
 <body>
